@@ -16,18 +16,18 @@
 
 ## What is Ditheroid?
 
-**Ditheroid** is a free and open-source Android camera app that applies dithering effects **in real time** using the GPU.
+**Ditheroid** is a free and open-source Vibecoded Android camera app that applies dithering effects **in real time** using the GPU.
 
 Instead of taking a normal photo and processing it later, Ditheroid lets you see the final pixel-art look directly through the camera preview before you capture it.
 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/ditheroid-1.png" width="30%" alt="Ditheroid camera preview">
+  <img src="screenshots/DitherCam_20260909_050112.png" width="30%" alt="Ditheroid camera preview">
   &nbsp;
-  <img src="screenshots/ditheroid-2.png" width="30%" alt="Ditheroid palette controls">
+  <img src="screenshots/DitherCam_20260909_050143.png" width="30%" alt="Ditheroid palette controls">
   &nbsp;
-  <img src="screenshots/ditheroid-3.png" width="30%" alt="Ditheroid dither settings">
+  <img src="screenshots/DitherCam_20260909_050157.png" width="30%" alt="Ditheroid dither settings">
 </p>
 
 ## Features
